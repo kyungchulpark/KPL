@@ -29,29 +29,28 @@ KPL 홈페이지
    - 리그 연혁 
    - Open Talk 참여 등 
    - 1 Page 로 구성할 것
-   
-2) Regular League (모든 사용자)
-   - 리그 일정
-   - 리그 순위
-   - 경기 결과 입력
-   - 종료된 리그
-   - 리그 수상자 확인
- 
-3) Event League (모든 사용자)
-   - Draft League 일정
 
-4) Teams 
+2) League
+  a. Regular League (모든 사용자)
+     - 리그 일정
+     - 리그 순위
+     - 경기 결과 입력
+     - 종료된 리그
+     - 리그 수상자 확인
+ 
+   b. Event League (모든 사용자)
+     - Draft League 일정
+
+3) Teams 
    - Team 목록 (모든 사용자)
    - Team 관리 (구단주)
 
-5) Players
+4) Players
    - 선수 등록 (모든 사용자)
    - 선수 기록 확인 (모든 사용자)
    - FA 등록 (모든 사용자)
 
-6) Contact (모든 사용자)
-
-7) Management (구단주)
+5) Management (구단주)
   - 리그 생성/삭제 관리
   - 리그 일정표 등록
   - 경기결과 리셋, 기권승 처리 (리그 결과 처리)
