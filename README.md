@@ -31,7 +31,7 @@ KPL 홈페이지
    - 1 Page 로 구성할 것
 
 2) League
-  a. Regular League (모든 사용자)
+   a. Regular League (모든 사용자)
      - 리그 일정
      - 리그 순위
      - 경기 결과 입력
@@ -41,16 +41,16 @@ KPL 홈페이지
    b. Event League (모든 사용자)
      - Draft League 일정
 
-3) Teams 
+4) Teams 
    - Team 목록 (모든 사용자)
    - Team 관리 (구단주)
 
-4) Players
+5) Players
    - 선수 등록 (모든 사용자)
    - 선수 기록 확인 (모든 사용자)
    - FA 등록 (모든 사용자)
 
-5) Management (구단주)
+6) Management (구단주)
   - 리그 생성/삭제 관리
   - 리그 일정표 등록
   - 경기결과 리셋, 기권승 처리 (리그 결과 처리)
