@@ -47,6 +47,13 @@ dependencies {
     testImplementation 'org.springframework.modulith:spring-modulith-starter-test'
     testImplementation 'org.springframework.security:spring-security-test'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+    // oauth
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+    // S3
+    implementation platform('com.amazonaws:aws-java-sdk-bom:1.12.529')
+    implementation 'com.amazonaws:aws-java-sdk-s3'
+    //h2
+    runtimeOnly 'com.h2database:h2'
 }
 
 dependencyManagement {
@@ -64,3 +71,4 @@ hibernate {
 tasks.named('test') {
     useJUnitPlatform()
 }
+
